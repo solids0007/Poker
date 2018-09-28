@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538110618 source:c:\users\sergio\desktop\poker\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
